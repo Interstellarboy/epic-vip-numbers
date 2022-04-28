@@ -1,4 +1,8 @@
+.nikes {
+  display: flex;
+}
 .App {
+  background: hsl(0deg 0% 3%);
   text-align: center;
 }
 
